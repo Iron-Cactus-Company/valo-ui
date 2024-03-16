@@ -1,6 +1,6 @@
 {
   "name": "@Iron-Cactus-Company/valo-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
@@ -17,21 +17,17 @@
     "rollup-plugin-dts": "^6.1.0",
     "typescript": "^5.4.2"
   },
-
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
     "dist"
   ],
   "types": "dist/index.d.ts",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/Iron-Cactus-Company/valo-ui"
   },
-
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/Iron-Cactus-Company"
   }
-
 }
