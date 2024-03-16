@@ -25,7 +25,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Iron-Cactus-Company/valo-ui"
+    "url": "https://github.com/Iron-Cactus-Company/valo-ui.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/Iron-Cactus-Company"
